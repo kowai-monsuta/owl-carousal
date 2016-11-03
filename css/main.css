@@ -1,0 +1,16 @@
+body {
+  background-color: #ffffff;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+h1 {
+  font-family: 'Libre Baskerville', serif;
+  font-size: 40px;
+  color: #444444;
+  text-align: center;
+}
+
+.item {
+
+}
